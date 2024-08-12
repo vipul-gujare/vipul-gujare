@@ -8,7 +8,7 @@ My journey through the lands of code has been long, and I have many tales to sha
 ## 🛠️ Take a gander at the tools of my trade
 
 - **🧪 Frontend Alchemy:** React, React Native, TypeScript, HTML5, CSS (The bane of my existence)
-- **🔮 State Management:** Redux, XState
+- **🔮 State Management:** Redux, XState, Apollo (Yes, you can use Apollo to manage your state)
 - **📦 Build & Deployment Runes:** Webpack, GitHub Actions
 
 
